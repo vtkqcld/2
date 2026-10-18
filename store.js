@@ -1,5 +1,5 @@
 /* SkyWorld Online Shop — customer-facing store (prototype) */
-const LOGO = 'shared/logo.png';   // <- replace shared/logo.png with your own logo (or change this path)
+const LOGO = 'pic.png';   // <- replace shared/logo.png with your own logo (or change this path)
 const $ = s => document.querySelector(s);
 const esc = SW.esc, peso = SW.peso;
 let me = null;                              // logged-in customer email
